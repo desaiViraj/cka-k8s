@@ -4,5 +4,9 @@ Released on 2015.
 Scalable way to run containers on public cloud, on-prem data center or on your laptop.
 
 Certifications:
+
 CKAD(Certified Kubernetes Application Developer, Level 1)
+
 CKA(Certified Kubernetes Administrator, Level 2
+
+ETCD is a distributed reliable key-value store that is Simple, Secure & Fast
