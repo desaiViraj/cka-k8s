@@ -22,3 +22,9 @@ Ex. db-service.dev.svc.cluster.local
 #kubectl config set-context $(kubectl config current-context) --namespace=dev # To set dev as default namespace
 
 TO LIMIT RESOURCES IN NAMESPACE - create ResourceQuota
+
+SERVICES:
+Enables communication within and outside of the applications.
+External Communication: NodePort Service - Makes internal pod accessible on a port.
+Cluster IP: Serive creates virtual IP between various sevices. 
+Load Balancer: Provisions load balancer for load balancer in supported cloud provider.
