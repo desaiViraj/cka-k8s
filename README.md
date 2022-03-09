@@ -28,3 +28,6 @@ Enables communication within and outside of the applications.
 External Communication: NodePort Service - Makes internal pod accessible on a port.
 Cluster IP: Serive creates virtual IP between various sevices. 
 Load Balancer: Provisions load balancer for load balancer in supported cloud provider.
+
+IMPERATIVE: step by step instruction to reach destination.
+DECLARATIVE: Direct final instruction to reach destination.
