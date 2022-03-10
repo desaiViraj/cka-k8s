@@ -31,3 +31,5 @@ Load Balancer: Provisions load balancer for load balancer in supported cloud pro
 
 IMPERATIVE: step by step instruction to reach destination.
 DECLARATIVE: Direct final instruction to reach destination.
+
+#kubectl get nodes
