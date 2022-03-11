@@ -33,3 +33,4 @@ IMPERATIVE: step by step instruction to reach destination.
 DECLARATIVE: Direct final instruction to reach destination.
 
 #kubectl get nodes
+#kubectl get svc
