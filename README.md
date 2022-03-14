@@ -35,3 +35,5 @@ DECLARATIVE: Direct final instruction to reach destination.
 #kubectl get nodes
 #kubectl get svc
 #kubectl get pods
+#kubectl apply -f filename 
+This will create intermidiate Last Applied Configuration file before making changes to live file. This ensures that we still have a backup of our old configuraion file.
