@@ -34,3 +34,4 @@ DECLARATIVE: Direct final instruction to reach destination.
 
 #kubectl get nodes
 #kubectl get svc
+#kubectl get pods
