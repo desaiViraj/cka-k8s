@@ -37,3 +37,5 @@ DECLARATIVE: Direct final instruction to reach destination.
 #kubectl get pods
 #kubectl apply -f filename 
 This will create intermidiate Last Applied Configuration file before making changes to live file. This ensures that we still have a backup of our old configuraion file.
+#kubectl run nginx --image=nginx
+#kubectl expose pod redis --image=redis --port=80
