@@ -40,3 +40,4 @@ This will create intermidiate Last Applied Configuration file before making chan
 #kubectl run nginx --image=nginx
 #kubectl expose pod redis --image=redis --port=80
 #kubectl create -f <filename>
+#kubectl apply -f <filename>
