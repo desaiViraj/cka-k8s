@@ -41,3 +41,4 @@ This will create intermidiate Last Applied Configuration file before making chan
 #kubectl expose pod redis --image=redis --port=80
 #kubectl create -f <filename>
 #kubectl apply -f <filename>
+#kubectl get deployments
