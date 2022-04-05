@@ -42,3 +42,6 @@ This will create intermidiate Last Applied Configuration file before making chan
 #kubectl create -f <filename>
 #kubectl apply -f <filename>
 #kubectl get deployments
+  
+Node Selectors
+  TODO
