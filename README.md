@@ -32,7 +32,7 @@ Load Balancer: Provisions load balancer for load balancer in supported cloud pro
 IMPERATIVE: step by step instruction to reach destination.
 DECLARATIVE: Direct final instruction to reach destination.
 
-#kubectl get nodes
+#kubectl get nodes or kubectl get no
 #kubectl get svc
 #kubectl get pods or kubectl get po
 #kubectl apply -f filename 
